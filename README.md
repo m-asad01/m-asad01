@@ -8,10 +8,8 @@
 
 <br>
 
-[![Followers](https://img.shields.io/github/followers/m-asad01?label=Followers&style=for-the-badge&color=2D7552&logo=github)](https://github.com/m-asad01?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asad-7761b8335)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_asad_babar/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsef24a034@pucit.edu.pk)
+<img src="https://komarev.com/ghpvc/?username=m-asad01&label=Profile%20Views&color=2D7552&style=flat-square" />
+<img src="https://img.shields.io/github/followers/m-asad01?label=Followers&style=flat-square&color=2D7552" />
 
 </div>
 
@@ -36,28 +34,16 @@ reach_me: bsef24a034@pucit.edu.pk
 <div align="center">
 
 **Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=js,py,cpp,html,css&theme=dark" />
 
 **Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=react,flask,tailwind,bootstrap&theme=dark" />
 
 **Platforms & Tools**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=firebase,sqlite,vercel,git,vscode&theme=dark" />
 
 </div>
 
@@ -73,8 +59,8 @@ reach_me: bsef24a034@pucit.edu.pk
 Full-stack competitive-programming platform with dual **Host / Solver** roles and a real-time Firebase backend.
 
 - Live problem creation with hidden judge test cases & per-language starter templates
-- In-browser JS judging + a Flask judge server for Python / C++ / Java
-- Firebase Auth, Firestore security rules, secrets injected at Vercel build time
+- In-browser JS judging + Flask judge server for Python / C++ / Java
+- Firebase Auth, Firestore rules, secrets injected at Vercel build time
 
 `Vanilla JS` `CodeMirror` `Firebase` `Flask` `Vercel`
 
@@ -131,36 +117,57 @@ Console-based word-search game in C++ across three difficulty levels (8×8 → 1
 
 <br>
 
-## 🌌 Optional: Animated 3D Contribution Skyline
-
-Instead of the usual snake game, you can turn your contribution graph into an animated **3D isometric skyline**, where building height reflects daily commit activity. This is *not* wired into this README by default — it needs one GitHub Action to run first, so it's kept as an opt-in add-on rather than a live image here that could show broken before you've set it up.
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg" width="80%" />
-  <br><sub><i>Example output from the action — yours will look like this once set up, generated from your own commit history.</i></sub>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=m-asad01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-asad01&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=m-asad01&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=m-asad01&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<br>
+
+## 🌌 Contribution Skyline
+
+Instead of the usual snake game, my contribution graph renders as an animated **3D isometric skyline** — building heights reflect daily commit counts — regenerated automatically every day by a GitHub Action.
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
 </div>
 
 <details>
-<summary><b>⚙️ How to enable it (2-minute setup)</b></summary>
+<summary><b>⚙️ Setup — how this animation is generated</b></summary>
 <br>
 
-Uses [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) — the real, actively maintained action for this.
+This uses [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib), the real, actively maintained action that turns a contribution calendar into an animated rotating 3D scene.
 
-**1.** In this profile repo (`m-asad01/m-asad01`), add the provided `profile-3d-contrib.yml` file to `.github/workflows/`.
+**1.** In this profile repo (`m-asad01/m-asad01`), add `.github/workflows/profile-3d-contrib.yml` using the workflow file provided alongside this README.
 
-**2.** Push it, then go to **Actions → GitHub-Profile-3D-Contrib → Run workflow** once to trigger it manually the first time. After that, it runs automatically once a day.
+**2.** Push it, then go to **Actions → GitHub-Profile-3D-Contrib → Run workflow** once to trigger it manually the first time. After that it runs automatically once a day.
 
-**3.** It generates an SVG at `profile-3d-contrib/profile-night-rainbow.svg` in this repo and commits it back automatically.
+**3.** It checks out the repo, generates SVGs into a `profile-3d-contrib/` folder, and commits + pushes them back — no manual steps needed after the first run.
 
-**4.** Once that file exists, add this line anywhere in your README to display it:
-```md
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
-```
+**4.** The image tag above already points at the file the action produces (`profile-3d-contrib/profile-night-rainbow.svg`), so it will start appearing here as soon as the workflow runs once.
 
-> Tip: if you want private-repo activity included too, check **"Include private contributions on my profile"** under Settings → Public profile → Contributions & Activity.
+> If you'd rather see private-repo activity too, check **"Include private contributions on my profile"** under Settings → Public profile → Contributions & Activity.
 
 </details>
 
 <br>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asad-7761b8335)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_asad_babar/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsef24a034@pucit.edu.pk)
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2D7552,50:1a4d3a,100:0b0d17&height=130&section=footer" />
