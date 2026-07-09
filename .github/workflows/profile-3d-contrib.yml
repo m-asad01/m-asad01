@@ -16,7 +16,7 @@ jobs:
       contents: write
     steps:
       - name: Generate 3D contribution graph
-        uses: yoshi3s/github-profile-3d-contrib@0.7.1
+        uses: actions-js/3d-contribution-graph@v1
         with:
           username: m-asad01
 
