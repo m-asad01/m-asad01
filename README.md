@@ -140,24 +140,6 @@ Instead of the usual snake game, my contribution graph renders as an animated **
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
 </div>
 
-<details>
-<summary><b>⚙️ Setup — how this animation is generated</b></summary>
-<br>
-
-This uses [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib), the real, actively maintained action that turns a contribution calendar into an animated rotating 3D scene.
-
-**1.** In this profile repo (`m-asad01/m-asad01`), add `.github/workflows/profile-3d-contrib.yml` using the workflow file provided alongside this README.
-
-**2.** Push it, then go to **Actions → GitHub-Profile-3D-Contrib → Run workflow** once to trigger it manually the first time. After that it runs automatically once a day.
-
-**3.** It checks out the repo, generates SVGs into a `profile-3d-contrib/` folder, and commits + pushes them back — no manual steps needed after the first run.
-
-**4.** The image tag above already points at the file the action produces (`profile-3d-contrib/profile-night-rainbow.svg`), so it will start appearing here as soon as the workflow runs once.
-
-> If you'd rather see private-repo activity too, check **"Include private contributions on my profile"** under Settings → Public profile → Contributions & Activity.
-
-</details>
-
 <br>
 
 ## 📫 Connect With Me
