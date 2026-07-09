@@ -1,150 +1,174 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2D7552,100:0b0d17&height=220&section=header&text=Muhammad%20Asad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%40%20PUCIT%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=18" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d17,50:1a4d3a,100:2D7552&height=230&section=header&text=Muhammad%20Asad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20@%20PUCIT%20%7C%20Full-Stack%20Developer&descAlignY=54&descSize=17" />
 
 <a href="https://github.com/m-asad01">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2DF0A2&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+PUCIT;Building+full-stack+apps+with+JS%2C+Python+%26+Flask;Turning+ideas+into+working+products;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=2DF0A2&center=true&vCenter=true&width=680&lines=Software+Engineering+Student+%40+PUCIT;Full-Stack+Developer+%7C+JavaScript+%2F+Python+%2F+C%2B%2B;Building+real-time+apps+with+Firebase+%26+Flask;Turning+ideas+into+working+products" />
 </a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=m-asad01&label=Profile%20Views&color=2D7552&style=flat-square" />
+<img src="https://img.shields.io/github/followers/m-asad01?label=Followers&style=flat-square&color=2D7552" />
 
 </div>
 
 <br>
 
-## About Me
+## 👋 About Me
 
-I'm **Muhammad Asad**, a Software Engineering student at **PUCIT**, Pakistan, who likes building complete products end-to-end — frontend, backend, and everything that connects them. My repos range from a real-time competitive-programming platform to a network-traffic fingerprinting tool, so I get comfortable jumping between JavaScript, Python, and C++ depending on what a project actually needs.
+I'm **Muhammad Asad**, a Software Engineering student at **PUCIT**, Pakistan. I build complete products end-to-end — frontend, backend, and everything that connects them — and move comfortably between JavaScript, Python, and C++ depending on what a project actually calls for.
 
-- 🎓 Software Engineering student at PUCIT
-- 🛠️ Comfortable across the stack — UI, APIs, databases, and deployment
-- 🌱 Currently sharpening backend architecture and networking fundamentals
-- 📫 Reach me at **bsef24a034@pucit.edu.pk**
+```yaml
+name: Muhammad Asad
+role: Software Engineering Student @ PUCIT
+focus: Full-stack web development, real-time systems, backend architecture
+currently_learning: Advanced backend design & computer networking
+reach_me: bsef24a034@pucit.edu.pk
+```
 
 <br>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=js,py,cpp,html,css&theme=dark" />
 
 **Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=react,flask,tailwind,bootstrap&theme=dark" />
 
 **Platforms & Tools**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=firebase,sqlite,vercel,git,vscode&theme=dark" />
 
 </div>
 
 <br>
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🏆 [CodeForge (Coding-Arena)](https://github.com/m-asad01/Coding-Arena)
-A full-stack competitive-programming platform with dual **Host / Solver** roles, a real-time Firebase backend, and a split-pane IDE.
-- Live problem creation with hidden judge test cases, topic tags, and per-language starter templates
-- In-browser judging for JavaScript, plus a Flask judge server (PythonAnywhere) for Python, C++, and Java
-- Firebase Auth (email + Google), Firestore security rules, and secret injection at Vercel build time so no keys ever hit the repo
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 [CodeForge](https://github.com/m-asad01/Coding-Arena)
+Full-stack competitive-programming platform with dual **Host / Solver** roles and a real-time Firebase backend.
+
+- Live problem creation with hidden judge test cases & per-language starter templates
+- In-browser JS judging + Flask judge server for Python / C++ / Java
+- Firebase Auth, Firestore rules, secrets injected at Vercel build time
 
 `Vanilla JS` `CodeMirror` `Firebase` `Flask` `Vercel`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 💪 [FitHub](https://github.com/m-asad01/FitHub)
-A complete fitness-management platform covering the full daily routine, not just workout logging.
-- Workout tracking across Dumbbells, Barbell, Bodyweight, Cardio, Yoga, and HIIT with a built-in rest timer
-- Weekly meal planner with six nutrition styles (Keto, Mediterranean, Vegan, and more) and per-meal calorie tracking
-- Hydration tracker with animated progress, plus a BMI calculator with health-status classification
+Complete fitness-management platform covering the full daily routine, not just workout logging.
+
+- Workout tracking across 6 categories with a built-in rest timer
+- Weekly meal planner — 6 nutrition styles, per-meal calorie tracking
+- Hydration tracker with animated progress + BMI calculator
 
 `React` `Tailwind CSS` `Flask` `SQLite`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🌐 [Network Fingerprint & Website Behavior Profiler](https://github.com/m-asad01/NetworkFingerPrint_CN_Project)
-A Flask + Scapy tool that captures live network traffic and classifies what kind of website you're looking at.
-- Live packet capture with kernel-level BPF filtering to isolate traffic per target host
-- Scoring-based classifier that labels traffic as Streaming, Social Media, Static Content, or API-Heavy
-- Side-by-side comparison mode that captures two sites in parallel and diffs the results with a live Chart.js visualization
+### 🌐 [Network Fingerprint Profiler](https://github.com/m-asad01/NetworkFingerPrint_CN_Project)
+Flask + Scapy tool that captures live network traffic and classifies website behavior.
+
+- Live packet capture with kernel-level BPF filtering
+- Scoring-based classifier: Streaming / Social / Static / API-Heavy
+- Parallel side-by-side site comparison with a live Chart.js diff view
 
 `Python` `Flask` `Scapy` `Chart.js`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🧩 [Word Hunt Game](https://github.com/m-asad01/Word-Hunt-Game)
-A console-based word-search game in C++ with three difficulty levels (8x8 → 16x16 grids).
-- Words placed algorithmically in all eight directions, with the rest of the grid filled randomly
-- In-game `HINT` and `QUIT` commands, case-insensitive input, and found words highlighted in lowercase
-- Persistent scoring system with high scores and history saved to disk
+Console-based word-search game in C++ across three difficulty levels (8×8 → 16×16).
+
+- Words placed algorithmically in all 8 directions
+- In-game `HINT` / `QUIT` commands, case-insensitive input
+- Persistent high scores & history saved to disk
 
 `C++` `std::chrono` `File I/O`
 
----
-
-### 🐕 [TinDog](https://github.com/m-asad01/Tindog) &nbsp;·&nbsp; 💲 [Pricing Plan](https://github.com/m-asad01/Pricing-plan) &nbsp;·&nbsp; 🧑‍💻 [Portfolio Website](https://github.com/m-asad01/Portfolio-Website)
-Three front-end builds that track my progression from framework basics to custom layout work: a Bootstrap landing page, a pure CSS Flexbox pricing page, and my personal portfolio site.
-
-`HTML` `CSS` `Bootstrap` `Flexbox`
-
-<br>
-
-## GitHub Stats
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=m-asad01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-asad01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+**Also on my profile:** &nbsp;
+🐕 [TinDog](https://github.com/m-asad01/Tindog) — Bootstrap landing page &nbsp;·&nbsp;
+💲 [Pricing Plan](https://github.com/m-asad01/Pricing-plan) — pure CSS Flexbox &nbsp;·&nbsp;
+🧑‍💻 [Portfolio Website](https://github.com/m-asad01/Portfolio-Website) — personal site
+
+</div>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-asad01&theme=radical&hide_border=true" alt="GitHub Streak" />
+## 📊 GitHub Analytics
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=m-asad01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-asad01&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=m-asad01&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=m-asad01&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<br>
+
+## 🏅 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=m-asad01&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
 
 <br>
 
 ## 🌌 Contribution Skyline
 
-Instead of the usual snake game, my contribution graph renders as an animated **3D isometric skyline** — each building's height reflects a day's commit count — regenerated daily by a GitHub Action.
+Instead of the usual snake game, my contribution graph renders as an animated **3D isometric skyline** — building heights reflect daily commit counts — regenerated automatically every day by a GitHub Action.
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution animation" width="90%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
 </div>
 
 <details>
-<summary>⚙️ How this animation is generated (setup steps)</summary>
-
+<summary><b>⚙️ Setup — how this animation is generated</b></summary>
 <br>
 
-This uses [`yoshi3s/github-profile-3d-contrib`](https://github.com/yoshi3s/github-profile-3d-contrib), a GitHub Action that turns your contribution calendar into an animated, rotating 3D scene instead of a static grid.
+This uses [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib), the real, actively maintained action that turns a contribution calendar into an animated rotating 3D scene.
 
-**1.** Create `.github/workflows/profile-3d-contrib.yml` in this repo with the contents from the `profile-3d-contrib.yml` file provided alongside this README.
+**1.** In this profile repo (`m-asad01/m-asad01`), add `.github/workflows/profile-3d-contrib.yml` using the workflow file provided alongside this README.
 
-**2.** Commit and push it — the workflow runs on a schedule (and can also be triggered manually from the **Actions** tab).
+**2.** Push it, then go to **Actions → GitHub-Profile-3D-Contrib → Run workflow** once to trigger it manually the first time. After that it runs automatically once a day.
 
-**3.** It commits a generated SVG to a `profile-3d-contrib/` folder in this repo automatically.
+**3.** It checks out the repo, generates SVGs into a `profile-3d-contrib/` folder, and commits + pushes them back — no manual steps needed after the first run.
 
-**4.** The image tag above already points at the file the action produces, so once it runs once, the animation appears here automatically — no further edits needed.
+**4.** The image tag above already points at the file the action produces (`profile-3d-contrib/profile-night-rainbow.svg`), so it will start appearing here as soon as the workflow runs once.
+
+> If you'd rather see private-repo activity too, check **"Include private contributions on my profile"** under Settings → Public profile → Contributions & Activity.
 
 </details>
 
 <br>
 
-## Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -154,4 +178,4 @@ This uses [`yoshi3s/github-profile-3d-contrib`](https://github.com/yoshi3s/githu
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d17,100:2D7552&height=120&section=footer" alt="footer banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2D7552,50:1a4d3a,100:0b0d17&height=130&section=footer" />
